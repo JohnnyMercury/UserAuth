@@ -25,5 +25,9 @@ The second task demonstrates a hash table for securely storing user credentials.
 - The hash table ensures unique usernames, with collisions resolved automatically by Java’s `HashMap` implementation.
 
 ### **Screenshots**
-- **User Hash Table Before Deletion**: *![img.png](img.png)*
-- **User Hash Table After Deletion**: *![img_1.png](img_1.png)*
+- **User Hash Table Before Deletion**:
+- <img width="222" alt="image" src="https://github.com/user-attachments/assets/6c7e8425-100f-4f0e-b154-c9f8918274c4" />
+
+- **User Hash Table After Deletion**:
+- <img width="238" alt="image" src="https://github.com/user-attachments/assets/e947cefe-3504-451f-ba04-dd0f5abb0c50" />
+
